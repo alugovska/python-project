@@ -28,6 +28,7 @@ Additionally, the project includes logging and analytics functionality using Mon
 
 ## Project Structure
 
+```text
 Python_Project/
 │
 ├── main_menu.py       # Application entry point
@@ -63,16 +64,15 @@ MYSQL_CONFIG = {
 }
 ```
 
-
-##  How to Run
+```md
+## How to Run
 
 The application can be launched from any Python environment (IDE, terminal, or Jupyter Notebook).
 
+```python
 from main_menu import main_menu
-main_menu()
 
-After launching the application, an interactive console menu appears where the user can choose search options.
-    
+main_menu()
 
 ## Technologies Used
 
