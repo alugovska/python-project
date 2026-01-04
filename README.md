@@ -40,7 +40,7 @@ Python_Project/
 ├── config.example.py  # Configuration template
 ├── .gitignore
 └── README.md
-
+```
 
 ## Configuration
 
