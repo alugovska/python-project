@@ -64,15 +64,15 @@ MYSQL_CONFIG = {
 }
 ```
 
-```md
 ## How to Run
 
 The application can be launched from any Python environment (IDE, terminal, or Jupyter Notebook).
 
 ```python
-from main_menu import main_menu
 
+from main_menu import main_menu
 main_menu()
+```
 
 ## Technologies Used
 
